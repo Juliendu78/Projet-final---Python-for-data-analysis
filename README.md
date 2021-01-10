@@ -10,6 +10,7 @@ L'interet de notre API est de mettre à disposition d'un client un service de pr
 Le client n'a ainsi pas a se soucier de concevoir un modèle. Le client envoie une requete à l'API pour demander la(les) prédiction(s) d'observation(s) (une espèce chimique est elle prete à être biodégradée ou non?).
 
 Concernant l'API, nous avons fait le choix d'utiliser flask-ngrok afin de rendre notre application Flask fonctionnant sur l'hôte local disponible sur Internet.
+
 Le projet s'articule selon les principales étapes énumérées ci-dessous :
 - Feature Engineering
 - Conception de modèle
